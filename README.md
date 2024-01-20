@@ -10,13 +10,13 @@ Beyond simply tracking vehicle movement, the simulator monitors operational expe
 
 This simulator is entirely built using Python, and it utilizes a CSV file to store real-time information about the city. The following files are included in the repository:
 
-`DT_library.ipynb`: A Jupyter notebook for creating a distance matrix and travel time between stations in a given city using the Google API.
-`Distance_matrix.npy`: A 20x20 NumPy array depicting distances between all 20 stations, calculated in `DT_library.ipynb`.
-`Travel-Time-chart.npy`: A NumPy array illustrating travel time between stations, calculated in `DT_library.ipynb`.
-`inward.csv`: A CSV file detailing inward traffic at each station per hour (during operational hours).
-`outward.csv`: A CSV file outlining outward traffic at each station per hour (during operational hours).
-`Simulation.ipynb`: The main file for simulating and plotting results.
-`Station_coordinate.csv`: A CSV file containing latitude and longitude for each station of interest.
+1. `DT_library.ipynb`: A Jupyter notebook for creating a distance matrix and travel time between stations in a given city using the Google API.
+2. `Distance_matrix.npy`: A 20x20 NumPy array depicting distances between all 20 stations, calculated in `DT_library.ipynb`.
+3. `Travel-Time-chart.npy`: A NumPy array illustrating travel time between stations, calculated in `DT_library.ipynb`.
+4. `inward.csv`: A CSV file detailing inward traffic at each station per hour (during operational hours).
+5. `outward.csv`: A CSV file outlining outward traffic at each station per hour (during operational hours).
+6. `Simulation.ipynb`: The main file for simulating and plotting results.
+7. `Station_coordinate.csv`: A CSV file containing latitude and longitude for each station of interest.
 ## Author Information
 - **Author**: Mahesh Saravanan, Sai Koushik JV
 - **Email**: teamvaegan@gmail.com
