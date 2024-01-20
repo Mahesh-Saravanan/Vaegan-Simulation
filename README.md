@@ -1,4 +1,4 @@
-# Vaegan MaaS Simulator
+# Vaegan Simulator
 
 ## Overview
 
